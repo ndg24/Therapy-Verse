@@ -1,10 +1,8 @@
 # Therapy-Verse
 
-Partnered with Princeton's Sriram Hathwar to craft an AI mental health chatbot. Rooted in NLP and RNN techniques, our project draws from ELIZA's legacy. Powered by TensorFlow, it empathetically interacts, bridging AI and mental wellness. A user-friendly interface offers insightful conversations for holistic support.
+Partnered with Princeton's Sriram Hathwar to craft an AI mental health chatbot. Rooted in NLP and RNN techniques, this project draws from ELIZA's legacy. Powered by TensorFlow, it empathetically interacts, bridging AI and mental wellness. A user-friendly interface offers insightful conversations for holistic support.
 
 ## Technologies Used
-
-Our innovative mental health chatbot leverages a sophisticated stack of technologies to provide cutting-edge user experiences:
 
 - **TensorFlow:** The project harnesses the power of TensorFlow, an open-source machine learning framework, for building and training neural network models.
 - **Python:** The primary programming language used to develop the chatbot's codebase, enabling seamless integration of AI-driven functionality.
@@ -12,8 +10,6 @@ Our innovative mental health chatbot leverages a sophisticated stack of technolo
 - **Recurrent Neural Networks (RNNs):** By implementing RNNs, the chatbot achieves dynamic sequence generation, enabling the generation of coherent and contextually relevant responses.
 
 ## Features
-
-Our chatbot is designed to deliver a comprehensive mental wellness experience, powered by state-of-the-art features:
 
 - **Empathetic Conversations:** Utilizing sentiment analysis and contextual understanding, the chatbot offers empathetic and supportive conversations that resonate with users' emotional states.
 - **Intent Recognition:** Employing advanced intent recognition models, the chatbot accurately identifies user needs and tailors responses to address individual queries and concerns.
