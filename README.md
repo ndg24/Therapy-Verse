@@ -18,4 +18,4 @@ Partnered with Princeton's Sriram Hathwar to craft an AI mental health chatbot. 
 
 ## Created By
 
-- [Nilansh](https://github.com/ndg24)
+- [Nilansh Dey Ghosh](https://github.com/ndg24)
